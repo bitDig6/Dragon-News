@@ -15,3 +15,9 @@ a.active {
   background-color: #E7E7E7;
   color: black;
 }
+
+.ad-bg-img{
+  background-image: url('./assets/bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
